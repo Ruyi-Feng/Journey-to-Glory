@@ -4,11 +4,12 @@ Hi, I'm glad you are here!
 
 This is [FENG Ruyi](#contact), a dual PhD student of Southeast University and Hong Kong Polytechnic University. I think this is a good way to record my academic journey.
 
-<center>
+<p align="center">
 Killing the dragon is not the ultimate goal of adventure
-
+</p>
+<p align="center">
 杀掉恶龙不是冒险的终极理想
-</center>
+</p>
 
 <h2> 📕 Education </h2>
 
@@ -121,7 +122,7 @@ LinkedIn: [Ruyi-Feng](https://www.linkedin.com/in/Ruyi-Feng/)
 Github: [Ruyi-Feng](https://github.com/Ruyi-Feng)
 
 
-<center>
+<p align="center">
 @ 杀掉恶龙不是冒险的终极理想
-</center>
+</p>
 
