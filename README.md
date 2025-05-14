@@ -13,50 +13,48 @@ Killing the dragon is not the ultimate goal of adventure
 
 <h2> 📕 Education </h2>
 
-<p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Ph.D. Student, Transportation Engineering</strong>  <div style="float:right;"> <strong> 2023 - Present</strong></div>
+<p style="line-height:0.3em;" align="center">
+<div style="text-align:left;"> <strong> Ph.D. Student, Transportation Engineering</strong> <strong> <code>2023 - Present</code> </strong></div>
 
 <em>
-<div style="text-align:left;">  Faculty of Civil Engineering, Hong Kong Polytechnic University, supervised by Dr. N.N. Sze <div style="float:right;"> Hong Kong SAR </div>
+<div style="text-align:left;">  Faculty of Civil Engineering, Hong Kong Polytechnic University, supervised by Dr. N.N. Sze </div>
 
-<div style="text-align:left;"> School of Transportation, Southeast University, supervised by Prof. Zhibin Li <div style="float:right;"> Nanjing, China </div>
-</em>
-</p>
-
-
-<p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Master Student of Engineering, Transportation Engineering </strong>  <div style="float:right;"> <strong> 2021 - 2023</strong></div>
-
-<em>
-<div style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li <div style="float:right;"> Nanjing, China </div>
+<div style="text-align:left;"> School of Transportation, Southeast University, supervised by Prof. Zhibin Li </div>
 </em>
 </p>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Bachelor of Engineering, Transportation Engineering </strong>  <div style="float:right;"> <strong> 2017 - 2021</strong></div>
+<div style="text-align:left;"> <strong> Master Student of Engineering, Transportation Engineering </strong> <strong>  <code> 2021 - 2023 </code></strong></div>
 
 <em>
-<div style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li <div style="float:right;"> Nanjing, China </div>
+<div style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li </div>
+</em>
+</p>
+
+<p style="line-height:0.3em;">
+<div style="text-align:left;"> <strong> Bachelor of Engineering, Transportation Engineering </strong> <strong> <code> 2017 - 2021</code> </strong></div>
+
+<em>
+<div style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li </div>
 </em>
 </p>
 
 <h2> 🔍 Research </h2>
 
-<center>
-<h3 style="line-height:0.7em;">
-<strong> ✨Research Interest </strong>
-</h3>
 
-<p style="line-height:0.5em;">
+<p style="line-height:0.7em;" align="center">
+<strong> ✨Research Interest </strong>
+</p>
+
+<p style="line-height:0.5em;" align="center">
 <code>Trajectory Reconstruction</code>, <code>Human Factor in Driving</code>, <code>Conflict Warning</code> <code>Deep Learning</code>, <code>Large Language Model</code>, <code>Computer Vision</code>, <code>Trajectory Prediction</code>
 </p>
-</center>
 
-<center>
-<h3 style="line-height:0.7em;">
+
+<p style="line-height:0.5em;" align="center">
 <strong> 📃Publications </strong>
-</h3>
-</center>
+</p>
+
 <ul>
 <li> Feng R, Li Z, Liu B, et al. A Joint Spatiotemporal Prediction and Image Confirmation Model for Vehicle Trajectory Concatenation With Low Detection Rates[J]. IEEE Transactions on Intelligent Transportation Systems, 2024.
 <li> R. Feng, C. Fan, Z. Li and X. Chen, "Mixed Road User Trajectory Extraction From Moving Aerial Videos Based on Convolution Neural Network Detection", in IEEE Access, vol. 8, pp. 43508-43519, 2020.
@@ -65,7 +63,6 @@ Killing the dragon is not the ultimate goal of adventure
 <li> Ruyi F, Zhibin L, Qifan W, et al. Association of vehicle object detection and the time-space trajectory matching from aerial videos[J]. 交通信息与安全, 2021, 39(2): 61-69, 77.
 <li> Under Review - H. Zhu, R. Feng et. al., "Efficient Model Compression for Improving Traffic Object Recognition Using Lightweight Pruning Algorithm" IEEE Intelligent Transportation Systems Magazine
 </ul>
-
 
 <h2> 📐 Engineering </h2>
 
@@ -90,7 +87,6 @@ Killing the dragon is not the ultimate goal of adventure
 <li>The algorithm is packaged into a Docker image and deployed as a service on the server in Nanjing RaoYue Highway Center. These services push alarm information to the intelligent traffic management platform through the message queue.
 </ul>
 </p>
-
 
 <p style="line-height:0.3em;">
 <div style="text-align:left;"> <strong> OpenV2X Algorithm Development </strong>  <div style="float:right;"> <strong> 2022 </strong></div>
@@ -121,8 +117,6 @@ LinkedIn: [Ruyi-Feng](https://www.linkedin.com/in/Ruyi-Feng/)
 
 Github: [Ruyi-Feng](https://github.com/Ruyi-Feng)
 
-
 <p align="center">
 @ 杀掉恶龙不是冒险的终极理想
 </p>
-
