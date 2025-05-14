@@ -13,38 +13,39 @@ Killing the dragon is not the ultimate goal of adventure
 
 <h2> 📕 Education </h2>
 
-<p style="line-height:0.3em;" align="center">
+
+<p style="line-height:0.3em;">
 <div style="text-align:left;"> <strong> Ph.D. Student, Transportation Engineering</strong> <strong> <code>2023 - Present</code> </strong></div>
 
 <em>
-<div style="text-align:left;">  Faculty of Civil Engineering, Hong Kong Polytechnic University, supervised by Dr. N.N. Sze </div>
+<div style="text-align:left;">  Faculty of Civil Engineering, Hong Kong Polytechnic University, supervised by <strong>Dr. N.N. Sze</strong> </div>
 
-<div style="text-align:left;"> School of Transportation, Southeast University, supervised by Prof. Zhibin Li </div>
+<div style="text-align:left;"> School of Transportation, Southeast University, supervised by <strong>Prof. Zhibin Li</strong> </div>
 </em>
 </p>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Master Student of Engineering, Transportation Engineering </strong> <strong>  <code> 2021 - 2023 </code></strong></div>
+<div style="text-align:left;"> <strong> Master Student of Engineering, Transportation Engineering </strong> <strong>  <code>2021 - 2023</code></strong></div>
 
 <em>
-<div style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li </div>
+<div style="text-align:left;">  School of Transportation, Southeast University, supervised by <strong>Prof. Zhibin Li</strong> </div>
 </em>
 </p>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Bachelor of Engineering, Transportation Engineering </strong> <strong> <code> 2017 - 2021</code> </strong></div>
+<div style="text-align:left;"> <strong> Bachelor of Engineering, Transportation Engineering </strong> <strong> <code>2017 - 2021</code> </strong></div>
 
 <em>
-<div style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li </div>
+<div style="text-align:left;">  School of Transportation, Southeast University, supervised by <strong>Prof. Zhibin Li</strong> </div>
 </em>
 </p>
 
 <h2> 🔍 Research </h2>
 
 
-<p style="line-height:0.7em;" align="center">
+<h3 style="line-height:0.7em;" align="center">
 <strong> ✨Research Interest </strong>
-</p>
+</h3>
 
 <p style="line-height:0.5em;" align="center">
 <code>Trajectory Reconstruction</code>, <code>Human Factor in Driving</code>, <code>Conflict Warning</code> <code>Deep Learning</code>, <code>Large Language Model</code>, <code>Computer Vision</code>, <code>Trajectory Prediction</code>
@@ -67,18 +68,18 @@ Killing the dragon is not the ultimate goal of adventure
 <h2> 📐 Engineering </h2>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Comprehensive Pre-Trained Large Driving Model Based on Transformer </strong>  <div style="float:right;"> <strong> 2024</strong></div>
+<div style="text-align:left;"> <strong> Comprehensive Pre-Trained Large Driving Model Based on Transformer </strong> <code>2024</code></div>
 
 <em>
-<div style="text-align:left;">  Expecting to training the model understand driving strategy <div style="float:right;"> LLMs </div>
+<div style="text-align:left;">  Expecting to training the model understand driving strategy</div>
 </em>
 </p>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Expressway Spill Detection System </strong>  <div style="float:right;"> <strong> 2023 </strong></div>
+<div style="text-align:left;"> <strong> Expressway Spill Detection System </strong> <code>2023</code></div>
 
 <em>
-<div style="text-align:left;">  Already implemented: Automatic Spill Detection System <div style="float:right;"> Engineering </div>
+<div style="text-align:left;">  Already implemented: Automatic Spill Detection System </div>
 </em>
 
 <ul>
@@ -89,12 +90,12 @@ Killing the dragon is not the ultimate goal of adventure
 </p>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> OpenV2X Algorithm Development </strong>  <div style="float:right;"> <strong> 2022 </strong></div>
+<div style="text-align:left;"> <strong> OpenV2X Algorithm Development </strong> <code> 2022 </code></div>
 
 <em>
 <div style="text-align:left;">
 Won the most contribution price in 2022. Project detail: <a href="https://github.com/open-v2x" title="Go to project page of OpenV2X"> OpenV2X</a>
-<div style="float:right;"> Engineering </div>
+</div>
 </em>
 <ul>
 <li> Develop vehicle collision warning algorithms, dynamically select relevant vehicles, bicycles and pedestrians involved in future paths.
