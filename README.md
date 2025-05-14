@@ -14,29 +14,29 @@ Killing the dragon is not the ultimate goal of adventure
 <h2> 📕 Education </h2>
 
 <p style="line-height:0.3em;">
-<span style="text-align:left;"> <strong> Ph.D. Student, Transportation Engineering</strong>  <span style="float:right;"> <strong> 2023 - Present</strong></span>
+<div style="text-align:left;"> <strong> Ph.D. Student, Transportation Engineering</strong>  <div style="float:right;"> <strong> 2023 - Present</strong></div>
 
 <em>
-<span style="text-align:left;">  Faculty of Civil Engineering, Hong Kong Polytechnic University, supervised by Dr. N.N. Sze <span style="float:right;"> Hong Kong SAR </span>
+<div style="text-align:left;">  Faculty of Civil Engineering, Hong Kong Polytechnic University, supervised by Dr. N.N. Sze <div style="float:right;"> Hong Kong SAR </div>
 
-<span style="text-align:left;"> School of Transportation, Southeast University, GPA:4.00/4.00, supervised by Prof. Zhibin Li <span style="float:right;"> Nanjing, China </span>
+<div style="text-align:left;"> School of Transportation, Southeast University, supervised by Prof. Zhibin Li <div style="float:right;"> Nanjing, China </div>
 </em>
 </p>
 
 
 <p style="line-height:0.3em;">
-<span style="text-align:left;"> <strong> Master Student of Engineering, Transportation Engineering </strong>  <span style="float:right;"> <strong> 2021 - 2023</strong></span>
+<div style="text-align:left;"> <strong> Master Student of Engineering, Transportation Engineering </strong>  <div style="float:right;"> <strong> 2021 - 2023</strong></div>
 
 <em>
-<span style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li <span style="float:right;"> Nanjing, China </span>
+<div style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li <div style="float:right;"> Nanjing, China </div>
 </em>
 </p>
 
 <p style="line-height:0.3em;">
-<span style="text-align:left;"> <strong> Bachelor of Engineering, Transportation Engineering </strong>  <span style="float:right;"> <strong> 2017 - 2021</strong></span>
+<div style="text-align:left;"> <strong> Bachelor of Engineering, Transportation Engineering </strong>  <div style="float:right;"> <strong> 2017 - 2021</strong></div>
 
 <em>
-<span style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li <span style="float:right;"> Nanjing, China </span>
+<div style="text-align:left;">  School of Transportation, Southeast University, supervised by Prof. Zhibin Li <div style="float:right;"> Nanjing, China </div>
 </em>
 </p>
 
@@ -44,17 +44,17 @@ Killing the dragon is not the ultimate goal of adventure
 
 <center>
 <h3 style="line-height:0.7em;">
-<strong> ✨Research Interest </strong></span>
+<strong> ✨Research Interest </strong>
 </h3>
 
 <p style="line-height:0.5em;">
-<code>Trajectory Reconstruction</code>, <code>Human Factor in Driving</code>, <code>Conflict Warning</code> <code>Deep Learning</code>, <code>Large Language Model</code>, <code>Computer Vision</code>, <code>Trajectory Prediction</code> </span>
+<code>Trajectory Reconstruction</code>, <code>Human Factor in Driving</code>, <code>Conflict Warning</code> <code>Deep Learning</code>, <code>Large Language Model</code>, <code>Computer Vision</code>, <code>Trajectory Prediction</code>
 </p>
 </center>
 
 <center>
 <h3 style="line-height:0.7em;">
-<strong> 📃Publications </strong></span>
+<strong> 📃Publications </strong>
 </h3>
 </center>
 <ul>
@@ -70,18 +70,18 @@ Killing the dragon is not the ultimate goal of adventure
 <h2> 📐 Engineering </h2>
 
 <p style="line-height:0.3em;">
-<span style="text-align:left;"> <strong> Comprehensive Pre-Trained Large Driving Model Based on Transformer </strong>  <span style="float:right;"> <strong> 2024</strong></span>
+<div style="text-align:left;"> <strong> Comprehensive Pre-Trained Large Driving Model Based on Transformer </strong>  <div style="float:right;"> <strong> 2024</strong></div>
 
 <em>
-<span style="text-align:left;">  Expecting to training the model understand driving strategy <span style="float:right;"> LLMs </span>
+<div style="text-align:left;">  Expecting to training the model understand driving strategy <div style="float:right;"> LLMs </div>
 </em>
 </p>
 
 <p style="line-height:0.3em;">
-<span style="text-align:left;"> <strong> Expressway Spill Detection System </strong>  <span style="float:right;"> <strong> 2023 </strong></span>
+<div style="text-align:left;"> <strong> Expressway Spill Detection System </strong>  <div style="float:right;"> <strong> 2023 </strong></div>
 
 <em>
-<span style="text-align:left;">  Already implemented: Automatic Spill Detection System <span style="float:right;"> Engineering </span>
+<div style="text-align:left;">  Already implemented: Automatic Spill Detection System <div style="float:right;"> Engineering </div>
 </em>
 
 <ul>
@@ -93,12 +93,12 @@ Killing the dragon is not the ultimate goal of adventure
 
 
 <p style="line-height:0.3em;">
-<span style="text-align:left;"> <strong> OpenV2X Algorithm Development </strong>  <span style="float:right;"> <strong> 2022 </strong></span>
+<div style="text-align:left;"> <strong> OpenV2X Algorithm Development </strong>  <div style="float:right;"> <strong> 2022 </strong></div>
 
 <em>
-<span style="text-align:left;">
+<div style="text-align:left;">
 Won the most contribution price in 2022. Project detail: <a href="https://github.com/open-v2x" title="Go to project page of OpenV2X"> OpenV2X</a>
-<span style="float:right;"> Engineering </span>
+<div style="float:right;"> Engineering </div>
 </em>
 <ul>
 <li> Develop vehicle collision warning algorithms, dynamically select relevant vehicles, bicycles and pedestrians involved in future paths.
@@ -111,9 +111,9 @@ Won the most contribution price in 2022. Project detail: <a href="https://github
 
 ...
 
-<span id="contact">
+<div id="contact">
 <h2> 📧 Contact Me </h2>
-</span>
+</div>
 
 Email: <fengruyi@seu.edu.cn> or <ruyeee.feng@connect.polyu.hk>
 
