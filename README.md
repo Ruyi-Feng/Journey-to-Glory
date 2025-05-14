@@ -4,10 +4,10 @@ Hi, I'm glad you are here!
 
 This is [FENG Ruyi](#contact), a dual PhD student of Southeast University and Hong Kong Polytechnic University. I think this is a good way to record my academic journey.
 
-<p align="center">
+<p  style="line-height:0.7em;" align="center">
 Killing the dragon is not the ultimate goal of adventure
 </p>
-<p align="center">
+<p  style="line-height:0.7em;" align="center">
 杀掉恶龙不是冒险的终极理想
 </p>
 
@@ -44,7 +44,7 @@ Killing the dragon is not the ultimate goal of adventure
 
 
 <h3 style="line-height:0.7em;" align="center">
-<strong> ✨Research Interest </strong>
+<strong> ✨ Research Interest </strong>
 </h3>
 
 <p style="line-height:0.5em;" align="center">
@@ -52,18 +52,27 @@ Killing the dragon is not the ultimate goal of adventure
 </p>
 
 
-<p style="line-height:0.5em;" align="center">
-<strong> 📃Publications </strong>
-</p>
+<h3 style="line-height:0.5em;" align="center">
+<strong> 📃 Publications </strong>
+</h3>
 
 <ul>
-<li> Feng R, Li Z, Liu B, et al. A Joint Spatiotemporal Prediction and Image Confirmation Model for Vehicle Trajectory Concatenation With Low Detection Rates[J]. IEEE Transactions on Intelligent Transportation Systems, 2024.
-<li> R. Feng, C. Fan, Z. Li and X. Chen, "Mixed Road User Trajectory Extraction From Moving Aerial Videos Based on Convolution Neural Network Detection", in IEEE Access, vol. 8, pp. 43508-43519, 2020.
-<li> R. Feng, et. al., "Ubiquitous Traffic Eyes: Trajectory Dataset Focus on Multiple Traffic States and State Transition on Urban Expressways" Transportation Letters
-<li> Liu B, Li M, Feng R, et al. Incorporating multi-path risk assessment in transformer-based pedestrian crossing action prediction[J]. Accident Analysis & Prevention, 2025, 215: 108002.
-<li> Ruyi F, Zhibin L, Qifan W, et al. Association of vehicle object detection and the time-space trajectory matching from aerial videos[J]. 交通信息与安全, 2021, 39(2): 61-69, 77.
-<li> Under Review - H. Zhu, R. Feng et. al., "Efficient Model Compression for Improving Traffic Object Recognition Using Lightweight Pruning Algorithm" IEEE Intelligent Transportation Systems Magazine
+<li> <strong> R. Feng</strong>, Z. Li, B. Liu, and Y. Ding, "A joint spatiotemporal prediction and image confirmation model for vehicle trajectory concatenation with low detection rates," IEEE Trans. Intell. Transp. Syst., vol. 25, no. 9, pp. 11701-11715, Sep. 2024.
+<li> <strong> R. Feng</strong>, C. Fan, Z. Li and X. Chen, "Mixed road user trajectory extraction from moving aerial videos based on convolution neural network detection", IEEE Access, vol. 8, pp. 43508-43519, Feb. 2020.
+<li> <strong> R. Feng</strong>, et. al., "Ubiquitous Traffic Eyes: Trajectory Dataset Focus on Multiple Traffic States and State Transition on Urban Expressways" Transportation Letters
+<li> B. Liu, M. Li, <strong> R. Feng</strong>, W. Zhou, and Z. Li, "Incorporating multi-path risk assessment in transformer-based pedestrian crossing action prediction," Accid. Anal. Prev., vol. 215, p. 108002, Jun. 2025.
+<li> <strong> R. Feng</strong>, Z. Li, Q. Wu, and C. Fan, "Association of vehicle object detection and the time-space trajectory matching from aerial videos," J. Transp. Inf. Saf., vol. 39, no. 2, pp. 61-69+77, 2021.
+<li> Under Review - H. Zhu, <strong> R. Feng</strong>, et al., "Efficient model compression for improving traffic object recognition using lightweight pruning algorithm," IEEE Intell. Transp. Syst. Mag.
 </ul>
+
+<h3 style="line-height:0.5em;" align="center">
+<strong> 🚗 Data Available </strong>
+</h3>
+
+| Name | Description | Link |
+|------| ----------- | ---- |
+| Ubiquitous Traffic Eye| It provides high resolutional vehicle trajectory data in typical sites of expressway in China containing various traffic condition. 7 site with merging, weaving and deriving zone are included.| [UTE Dataset](http://seutraffic.com/#/)|
+| Risk Image of Pedestrian-Vehicle Interaction| This project furnishes a dataset comprising:（1）risk images of street-crossing pedestrians and（2）their crossing action labels, derived using a comprehensive multi-path risk assessment methodology.（3）Python code for the algorithm responsible for creating risk images from trajectory data is also available.| [PVI-Risk-Image](https://github.com/Sivan0227/PVI-Risk-Image)|
 
 <h2> 📐 Engineering </h2>
 
@@ -100,9 +109,40 @@ Won the most contribution price in 2022. Project detail: <a href="https://github
 <ul>
 <li> Develop vehicle collision warning algorithms, dynamically select relevant vehicles, bicycles and pedestrians involved in future paths.
 <li>  Develop online fusion algorithms based on Kalman Filter and Hungarian algorithm for combine radar and video data, controlling system delay within 200ms.
-</ul>
+</ul></p>
 
-...
+
+<p style="line-height:0.3em;">
+<div style="text-align:left;"> <strong> Vehicle Perception and Incident Detection According Roadside Camera </strong> <code> 2021 </code></div>
+
+<em>
+<div style="text-align:left;">
+Bachelor’s Graduation Project
+</div>
+</em>
+<ul>
+<li> Develop real-time trajectory estimation to identify abnormal traffic parameters and abnormal trajectories. Enable anomalies discover by identifying vehicle evasion.
+<li>  Develop a re-identification algorithm based on adjacent camera videos for continuous vehicle tracking, while utilizing vehicle speed and time to infer blind spot traffic status through the LWR model.
+</ul></p>
+
+<p style="line-height:0.3em;">
+<div style="text-align:left;"> <strong> Intersection Vehicle Warning System Based on Road-side Video </strong> <code> 2020 </code></div>
+
+<em>
+<div style="text-align:left;">
+National College Student Traffic Science and Technology Competition, first prize.
+</div></em>
+</p>
+
+<p style="line-height:0.3em;">
+<div style="text-align:left;"> <strong> High Quality Trajectory Extraction from Aerial Videos </strong> <code> 2019 </code></div>
+
+<em>
+<div style="text-align:left;">
+Extracting high-quality trajectory in UAV videos, and building the trajectory dataset: <a href=http://seutraffic.com/#/ title="The UTE Dataset"> UTE</a>
+</div></em>
+</p>
+
 
 <h2> 🌱 Personal Interest </h2>
 
