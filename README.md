@@ -113,7 +113,7 @@ Won the most contribution price in 2022. Project detail: <a href="https://github
 
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Vehicle Perception and Incident Detection According Roadside Camera </strong> <code> 2021 </code></div>
+<div style="text-align:left;"> <strong> Vehicle Perception and Incident Detection According Roadside Camera </strong> <code>2021</code></div>
 
 <em>
 <div style="text-align:left;">
@@ -126,7 +126,7 @@ Bachelor’s Graduation Project
 </ul></p>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> Intersection Vehicle Warning System Based on Road-side Video </strong> <code> 2020 </code></div>
+<div style="text-align:left;"> <strong> Intersection Vehicle Warning System Based on Road-side Video </strong> <code>2020</code></div>
 
 <em>
 <div style="text-align:left;">
@@ -135,7 +135,7 @@ National College Student Traffic Science and Technology Competition, first prize
 </p>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> High Quality Trajectory Extraction from Aerial Videos </strong> <code> 2019 </code></div>
+<div style="text-align:left;"> <strong> High Quality Trajectory Extraction from Aerial Videos </strong> <code>2019</code></div>
 
 <em>
 <div style="text-align:left;">
