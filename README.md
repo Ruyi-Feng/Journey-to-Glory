@@ -59,9 +59,9 @@ Killing the dragon is not the ultimate goal of adventure
 <ul>
 <li> <strong> R. Feng</strong>, Z. Li, B. Liu, and Y. Ding, "A joint spatiotemporal prediction and image confirmation model for vehicle trajectory concatenation with low detection rates," IEEE Trans. Intell. Transp. Syst., vol. 25, no. 9, pp. 11701-11715, Sep. 2024.
 <li> <strong> R. Feng</strong>, C. Fan, Z. Li and X. Chen, "Mixed road user trajectory extraction from moving aerial videos based on convolution neural network detection", IEEE Access, vol. 8, pp. 43508-43519, Feb. 2020.
-<li> <strong> R. Feng</strong>, et. al., "Ubiquitous Traffic Eyes: Trajectory Dataset Focus on Multiple Traffic States and State Transition on Urban Expressways" Transportation Letters
+<li> <strong> R. Feng</strong>, Zhu, H., Sze, N. N., Wang, S., & Li, Z, "Ubiquitous Traffic Eyes: Trajectory Dataset Focus on Multiple Traffic States and State Transition on Urban Expressways" Transportation Letters, 1–17. Sep. 2025.
 <li> B. Liu, M. Li, <strong> R. Feng</strong>, W. Zhou, and Z. Li, "Incorporating multi-path risk assessment in transformer-based pedestrian crossing action prediction," Accid. Anal. Prev., vol. 215, p. 108002, Jun. 2025.
-<li> <strong> R. Feng</strong>, Z. Li, Q. Wu, and C. Fan, "Association of vehicle object detection and the time-space trajectory matching from aerial videos," J. Transp. Inf. Saf., vol. 39, no. 2, pp. 61-69+77, 2021.
+<li> <strong> R. Feng</strong>, Z. Li, Q. Wu, and C. Fan, "Association of vehicle object detection and the time-space trajectory matching from aerial videos," J. Transp. Inf. Saf., vol. 39, no. 2, pp. 61-69+77, Apr. 2021.
 <li> Under Review - H. Zhu, <strong> R. Feng</strong>, et al., "Efficient model compression for improving traffic object recognition using lightweight pruning algorithm," IEEE Intell. Transp. Syst. Mag.
 </ul>
 
@@ -75,6 +75,14 @@ Killing the dragon is not the ultimate goal of adventure
 | Risk Image of Pedestrian-Vehicle Interaction| This project furnishes a dataset comprising:（1）risk images of street-crossing pedestrians and（2）their crossing action labels, derived using a comprehensive multi-path risk assessment methodology.（3）Python code for the algorithm responsible for creating risk images from trajectory data is also available.| [PVI-Risk-Image](https://github.com/Sivan0227/PVI-Risk-Image)|
 
 <h2> 📐 Engineering </h2>
+
+<p style="line-height:0.3em;">
+<div style="text-align:left;"> <strong> CLIP-based Multimodal Microbial Growth Model </strong> <code>2025</code></div>
+
+<em>
+<div style="text-align:left;">  A multimodal model of protein structure and attribute text was constructed</div>
+</em>
+</p>
 
 <p style="line-height:0.3em;">
 <div style="text-align:left;"> <strong> Comprehensive Pre-Trained Large Driving Model Based on Transformer </strong> <code>2024</code></div>
@@ -99,7 +107,7 @@ Killing the dragon is not the ultimate goal of adventure
 </p>
 
 <p style="line-height:0.3em;">
-<div style="text-align:left;"> <strong> OpenV2X Algorithm Development </strong> <code> 2022 </code></div>
+<div style="text-align:left;"> <strong> OpenV2X Algorithm Development </strong> <code>2022</code></div>
 
 <em>
 <div style="text-align:left;">
@@ -146,7 +154,22 @@ Extracting high-quality trajectory in UAV videos, and building the trajectory da
 
 <h2> 🌱 Personal Interest </h2>
 
-...
+<p align="center">
+Stars and torches find their light after dark✨
+</p>
+
+<p align="center">
+  <img src="images/HK_Dusk.jpg" height="180px" />
+  <img src="images/HK_C.jpg" height="180px" />
+  <img src="images/Hallstatt.jpg" height="180px" />
+  <img src="images/Shenzhong.jpg" height="180px" />
+  <img src="images/Chunsun.jpg" height="180px" />
+  <img src="images/Gosau.jpg" height="180px" />
+  <img src="images/Moon.jpg" height="180px" />
+  <br/>
+  <img src="images/Stanley.jpg" height="180px" />
+  <img src="images/Nanshan.jpg" height="180px" />
+</p>
 
 <div id="contact">
 <h2> 📧 Contact Me </h2>
