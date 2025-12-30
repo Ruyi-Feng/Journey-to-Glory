@@ -166,7 +166,6 @@ Stars and torches find their light after dark✨
   <img src="images/Chunsun.jpg" height="180px" />
   <img src="images/Gosau.jpg" height="180px" />
   <img src="images/Moon.jpg" height="180px" />
-  <br/>
   <img src="images/Stanley.jpg" height="180px" />
   <img src="images/Nanshan.jpg" height="180px" />
 </p>
